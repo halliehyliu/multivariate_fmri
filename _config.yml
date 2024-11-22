@@ -21,8 +21,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "ICA", file: "ICA.md"}
   - {title: "PLS", file: "PLS.md"}
   - {title: "Comparison to EFA", file: "compare.md"}
-  - {file: "index.html"}
-  - {file: "README.md"}
 
 
 comments:
