@@ -1,6 +1,6 @@
 ---
 title: "PCA"
-permalink: "/about/"
+permalink: "/PCA/"
 layout: page
 ---
 
