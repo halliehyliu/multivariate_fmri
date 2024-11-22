@@ -16,7 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "Intro", file: "intro.md"}
   - {title: "PCA", file: "PCA.md"}
+  - {title: "ICA", file: "ICA.md"}
+  - {title: "PLS", file: "PLS.md"}
+  - {title: "Comparison to EFA", file: "compare.md"}
   - {file: "index.html"}
   - {file: "README.md"}
 
