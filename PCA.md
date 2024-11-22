@@ -1,8 +1,8 @@
 ---
-title: "Principle Component Analysis"
+title: "PCA"
 permalink: "/about/"
 layout: page
 ---
 
-## Intro
+## Principle Component Analysis
 weijvni
