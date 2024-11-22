@@ -1,8 +1,8 @@
 ---
-title: "Multivariate fMRI Methods"
-permalink: "/home/"
-layout: page
+layout: default
+title: "Home"
 ---
+
 
 ## What are multivariate fMRI methods?
 weijvni
