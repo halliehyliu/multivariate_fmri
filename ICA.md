@@ -2,6 +2,7 @@
 title: "ICA"
 permalink: "/ICA/"
 layout: page
+---
 <style>
   #toc {
     position: fixed;
@@ -24,7 +25,6 @@ layout: page
   }
 </style>
 
----
 <div id="toc">
 ## Table of Contents
 - [Main Title](#Independent Component Analysis)
