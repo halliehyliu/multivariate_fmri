@@ -1,7 +1,10 @@
 ---
 title: "PCA"
 permalink: "/PCA/"
-layout: page
+layout: 
+    page:
+      toc: true
+      toc_float: true
 ---
 
 ## Principle Component Analysis
