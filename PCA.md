@@ -4,7 +4,7 @@ permalink: "/PCA/"
 layout: page
 ---
 
-## Principle Component Analysis
+## Principal Component Analysis
 weijvni
 
 ## heading
