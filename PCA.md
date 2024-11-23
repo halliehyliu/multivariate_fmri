@@ -4,9 +4,6 @@ permalink: "/PCA/"
 layout: page
 ---
 
-## Table of Contents
-{% toc %}
-
 ## Principle Component Analysis
 weijvni
 
