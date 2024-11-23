@@ -2,7 +2,6 @@
 title: "ICA"
 permalink: "/ICA/"
 layout: page
----
 <style>
   #toc {
     position: fixed;
@@ -24,6 +23,7 @@ layout: page
     text-decoration: underline;
   }
 </style>
+---
 
 <div id="toc">
 ## Table of Contents
