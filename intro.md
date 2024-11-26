@@ -4,7 +4,7 @@ permalink: "/intro/"
 layout: page
 ---
 
-## Introduction
+## Functional Magnetic Resonance Imaging (fMRI) Data
 weijvni
 
 ## title 1
