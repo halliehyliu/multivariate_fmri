@@ -20,3 +20,5 @@ Traditionally, fMRI data is analyzed using univariate analysis to estimate the e
 
 ## A Problem with Univariate fMRI Analysis
 One major limitation of the univariate fMRI method is that it does not take into account spatial correlations among voxels, as it assumes activations in each voxel and its neighboring voxels are independent of each other. However, activations in neighboring voxels are shown to be highly correlated. If one voxel shows high activation, it is likely that high activation will also be observed in its neighboring voxels. For this reason, multivariate fMRI methods, such as principal component analysis (PCA) and independent component analysis (ICA), are considered to be more appropriate for analyzing fMRI data. These methods consider activation in all voxels in the brain as a single observation, and allow for dimension reduction to identify task-related brain activity. More importantly, multivariate methods typically operate simultaneously on activity patterns from all voxels.
+
+## References
