@@ -23,7 +23,7 @@ Some patients with brain lesions may sometimes develop an impairment in way-find
 #### Figure 1
 
 
-
+![Aguirre GLM results](/assets/glmresults.png)
 (Aguirre et al., 1998)
 
 
