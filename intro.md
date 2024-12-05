@@ -23,7 +23,9 @@ Some patients with brain lesions may sometimes develop an impairment in way-find
 #### Figure 1
 
 
-![Figure 1](/assets/glmresults.png)
+![Aguirre GLM results](/assets/glmresults.png)
+(Aguirre et al., 1998)
+
 
 ## A Problem with Univariate fMRI Analysis
 A major limitation of the univariate fMRI method is that it does not take into account spatial correlations among voxels, as it assumes activations in each voxel and its neighboring voxels are independent of each other. However, activations in neighboring voxels are shown to be highly correlated. If one voxel shows high activation, it is likely that high activation will also be observed in its neighboring voxels. 
