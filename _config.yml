@@ -19,8 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Intro", file: "intro.md"}
   - {title: "PCA", file: "PCA.md"}
   - {title: "ICA", file: "ICA.md"}
-  - {title: "PLS", file: "PLS.md"}
   - {title: "Comparison to EFA", file: "compare.md"}
+  - {title: "References", file: "references.md"}
 
 
 comments:
