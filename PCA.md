@@ -36,9 +36,9 @@ fMRI data was analyzed using constrained PCA (CPCA), which is a variation of PCA
 
 
 #### Figure 5 Component 2 - Default-Mode Network (DMN)
-![Lavigne Component 2](/assets/lavignecomp2.png)
+![Lavigne Component 2](/assets/lavignecomp.png)
 
 
 #### Figure 6 Component 3 - Cognitive Evaluation Network (CEN)
-![Lavigne Component 3](/assets/lavignecomp3.png)
+![Lavigne Component 3](/assets/lavignecomp.png)
 
