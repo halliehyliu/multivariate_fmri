@@ -1,5 +1,5 @@
 ---
-title: "Comparison to EFA"
+title: "Comparison to Exploratory Factor Analysis (EFA)"
 permalink: "/compare/"
 layout: page
 ---
