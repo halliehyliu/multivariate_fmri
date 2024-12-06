@@ -14,6 +14,7 @@ Further, PCA has no free parameters for estimation, as it only involves the orth
 
 #### Figure 2
 ![PCA task component example](/assets/pcataskcomp.png)
+
 (Ashby, 2019)
 
 The dotted curve in the bottom panel is the predicted BOLD response to task stimuli.
@@ -21,13 +22,26 @@ The dotted curve in the bottom panel is the predicted BOLD response to task stim
 
 #### Figure 3
 ![PCA noise component example](/assets/pcanoisecomp.png)
+
 (Ashby, 2019)
 
-
-## heading
-11234
-
 ## A PCA Example
-1243234
+Bias against disconfirmatory evidence (BADE) is a form of cognitive bias that is associated with the persistence of delusion in schizophrenia. Patients tend to focus on confirmatory evidence that reinforces delusional beliefs, while struggling to integrate evidence that contradicts them. In a study by Lavigne et. al (2020), the authors aimed to examine the functional networks underlying evidence integration in schizophrenia by applying PCA onto task-fMRI data. Both schizophrenia patients and healthy controls completed an evidence integration task during an fMRI scan. 
 
-## References
+
+fMRI data was analyzed using constrained PCA (CPCA), which is a variation of PCA that performs PCA only on a subset of the overall variance, such that the resulting components reflect specific patterns of interest. In this study, the researchers wished to only perform PCA on task-related variances within the voxel activations, therefore they conducted a multivariate version of GLM to extract only the activity related to evidence integration specifically. PCA was then performed on the resulting data, and a scree plot was examined to determine the number of components to retain. The analysis yielded three task-related components corresponding to known networks involved in evidence integration in healthy adults: visual attention network (VsAN; dorsal anterior cingulate cortex, insula, occipital regions), default-mode network (DMN; precuneus, cingulate cortex, ventromedial prefrontal cortex, occipital regions, parietal cortex), and cognitive evaluation network (CEN; orbitofrontal cortex, inferior frontal gyrus, parietal cortex) (see Figures 4-6). Compared to healthy controls, schizophrenia patients exhibited increased VsAN activation, reduced DMN deactivation, and reduced CEN activation. The authors concluded that aberrant network activations may underlie the cognitive biases in schizophrenia patients. 
+
+#### Figure 4
+![Lavigne Component 1](/assets/lavignecomp1.png)
+
+Visual Attention Network (VsAN)
+
+#### Figure 5
+![Lavigne Component 2](/assets/lavignecomp2.png)
+
+Default-Mode Network (DMN)
+
+#### Figure 6
+![Lavigne Component 3](/assets/lavignecomp3.png)
+
+Cognitive Evaluation Network (CEN)
