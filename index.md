@@ -11,4 +11,4 @@ Traditionally, functional magnetic resonance imaging (fMRI) data are analyzed us
 This website introduces two types of multivariate functional magnetic resonance imaging (fMRI) analysis methods: principal component analysis (PCA) and independent component analysis (ICA). The "Introduction" section gives a broad overview of fMRI data and the univariate analysis method. The following sections introduce each multivariate fMRI method. For each method, an example study is included to help illustrate the analysis technique.
 
 
-![brain image](/assets/brain.jpg)
+![brain image](/assets/brai.jpg)
