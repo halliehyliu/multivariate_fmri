@@ -30,7 +30,7 @@ To compare component analysis results on fMRI data between PCA and ICA, McKeown 
 
 In this study, a subject underwent an fMRI scan while completing a Stroop color-naming task. The fMRI data was then analyzed using PCA and ICA. To identify the component most closely related to the task in each analysis, the researchers created a reference function that modeled the predicted activation time course of the task, and correlated that with the time course of each of the PCA and ICA components. The PCA component with the highest correlation with the reference function had a coefficient of 0.46, while the ICA component with the highest correlation had a coefficient of 0.92 (See Figure 9). The activity detected by the ICA component was more closely related to the task, and the component captured more activity in the visual areas, which aligned well with prior research findings on Stroop task. The results suggest that ICA is more effective in isolating task-related neural patterns, and is a promising exploratory tool for fMRI data. 
 
-### Figure 9
+#### Figure 9
 ![Mckeown](/assets/mckeown.png)
 
 (McKeown et al., 1998)
