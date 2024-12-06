@@ -13,14 +13,14 @@ To determine the right number of components in the dataset, especially in the co
 Further, PCA has no free parameters for estimation, as it only involves the orthogonal rotation of the data, and therefore does not require model-fitting. However, PCA assumes multivariate normal distribution of data, which may not be the most ideal for fMRI as data might not necessarily be normally distributed. 
 
 #### Figure 2
-![PCA task component example](/assets/pcataskcom.png)
+![PCA task component example](/assets/pcataskcomp.png)
 
 (Ashby, 2019)
 
 The dotted curve in the bottom panel is the predicted BOLD response to task stimuli.
 
 #### Figure 3
-![PCA noise component example](/assets/pcanoisecom.png)
+![PCA noise component example](/assets/pcanoisecomp.png)
 
 (Ashby, 2019)
 
