@@ -31,17 +31,14 @@ Bias against disconfirmatory evidence (BADE) is a form of cognitive bias that is
 
 fMRI data was analyzed using constrained PCA (CPCA), which is a variation of PCA that performs PCA only on a subset of the overall variance, such that the resulting components reflect specific patterns of interest. In this study, the researchers wished to only perform PCA on task-related variances within the voxel activations, therefore they conducted a multivariate version of GLM to extract only the activity related to evidence integration specifically. PCA was then performed on the resulting data, and a scree plot was examined to determine the number of components to retain. The analysis yielded three task-related components corresponding to known networks involved in evidence integration in healthy adults: visual attention network (VsAN; dorsal anterior cingulate cortex, insula, occipital regions), default-mode network (DMN; precuneus, cingulate cortex, ventromedial prefrontal cortex, occipital regions, parietal cortex), and cognitive evaluation network (CEN; orbitofrontal cortex, inferior frontal gyrus, parietal cortex) (see Figures 4-6). Compared to healthy controls, schizophrenia patients exhibited increased VsAN activation, reduced DMN deactivation, and reduced CEN activation. The authors concluded that aberrant network activations may underlie the cognitive biases in schizophrenia patients. 
 
-#### Figure 4
+#### Figure 4 Component 1 - Visual Attention Network (VsAN)
 ![Lavigne Component 1](/assets/lavignecomp1.png)
 
-Visual Attention Network (VsAN)
 
-#### Figure 5
+#### Figure 5 Component 2 - Default-Mode Network (DMN)
 ![Lavigne Component 2](/assets/lavignecomp2.png)
 
-Default-Mode Network (DMN)
 
-#### Figure 6
+#### Figure 6 Component 3 - Cognitive Evaluation Network (CEN)
 ![Lavigne Component 3](/assets/lavignecomp3.png)
 
-Cognitive Evaluation Network (CEN)
