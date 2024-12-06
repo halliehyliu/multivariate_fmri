@@ -27,6 +27,7 @@ GLM was then applied to the fMRI data to identify voxels that showed task-relate
 
 
 ![Aguirre GLM results](/assets/glmresults.png)
+
 (Aguirre et al., 1998)
 
 
