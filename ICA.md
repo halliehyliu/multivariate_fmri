@@ -1,5 +1,5 @@
 ---
-title: "Independent Component Analysis"
+title: "Independent Component Analysis (ICA)"
 permalink: "/ICA/"
 layout: page
 ---
