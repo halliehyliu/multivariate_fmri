@@ -15,6 +15,7 @@ Further, PCA has no free parameters for estimation, as it only involves the orth
 #### Figure 2
 ![PCA task component example](/assets/pcataskcomp.png)
 (Ashby, 2019)
+
 The dotted curve in the bottom panel is the predicted BOLD response to task stimuli.
 
 
